@@ -1,0 +1,7 @@
+alert ("conversor fare/Celsius")
+alert ("")
+farehaint = prompt ("insira a temperatura em farehaint : ")
+alert ("")
+celsius = ((farehaint-32)/1.8)
+alert ("")
+alert ("a temperatura em graus celsius é: " +celsius)
